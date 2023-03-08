@@ -32,7 +32,7 @@ Here's a walkthrough of implemented required features:
 
 <img src='React-Flashcards.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
-## Notes
+##Notes
 
 Describe any challenges encountered while building the app.
 
