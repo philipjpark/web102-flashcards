@@ -30,9 +30,10 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented required features:
 
-<img src='React-Flashcards.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+![ React-Flashcards](https://user-images.githubusercontent.com/66290921/223845016-a578cfc8-8a1b-4e09-8d57-2774f029ced3.gif)
 
-##Notes
+
+## Notes
 
 Describe any challenges encountered while building the app.
 
