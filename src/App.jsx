@@ -26,6 +26,8 @@ const App = () => {
     setFlipped(false);
   }
 
+  
+
   return (
     <div className="App">
       <div>
@@ -43,7 +45,16 @@ const App = () => {
               {flashcards[currentCardIndex].answer}
             </div>
           </div>
-            {/* <button onClick={handleNextCard}>Next Card</button> */}
+            <div className="textbox">
+              {/* <p>Answer here</p> */}
+              <label>What is your Answer: </label>
+              <input
+                type="text"
+                placeholder="Type here"
+              > 
+              </input>
+              {/* <button>Submit</button>  */}
+            </div>
         </div>
           <button onClick={handleNextCard}>Next Card</button>
       </div>
