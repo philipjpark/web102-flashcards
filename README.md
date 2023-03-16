@@ -62,16 +62,16 @@ Submitted by: **Philip Park**
 
 This web app: **Is a site that shows different React terms I need to know for Unit 1 and 2.**
 
-Time spent: **10** hours spent in total
+Time spent: **15** hours spent in total
 
 ## Required Features
 
 The following **required** functionality is completed:
 
 - [X] **The user can enter their guess in a box before seeing the flipside of the card**
-- [ ] **Clicking on a submit button shows visual feedback about whether the answer was correct or incorrect**
-- [ ] **A back button is displayed on the card and can be used to return to the previous card in a set sequence**
-- [ ] **A next button is displayed on the card and can be used to navigate to the next card in a set sequence**
+- [X] **Clicking on a submit button shows visual feedback about whether the answer was correct or incorrect**
+- [X] **A back button is displayed on the card and can be used to return to the previous card in a set sequence**
+- [X] **A next button is displayed on the card and can be used to navigate to the next card in a set sequence**
 
 The following **optional** features are implemented:
 
@@ -87,11 +87,12 @@ The following **additional** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
-![Text Box](https://user-images.githubusercontent.com/66290921/224906323-9ee6ecf6-cd79-4f23-8fe2-1e535a88223d.gif)
+![Kapture 2023-03-16 at 00 48 39](https://user-images.githubusercontent.com/66290921/225517939-c66d3907-d419-47cf-a0ef-699c42a0d46e.gif)
+
 
 ## Notes
 
-The app is not complete and I will continue to work on adding the features. 
+The app is complete and I learned a lot from this assignment.
 
 ## License
 
